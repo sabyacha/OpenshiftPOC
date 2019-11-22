@@ -1,0 +1,18 @@
+{
+  "name": "mysqlaws",
+  "version": "1.0.0",
+  "description": "Targer Openshift ",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "node helloworld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Sabyasachi Chatterjee",
+  "license": "UNLICENSED"
+}
